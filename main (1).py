@@ -1,4 +1,5 @@
 #A01412171 Alan Herrera Martínez 
+
 puntaje = 0
 respuesta = ""
 jugadores = 0
